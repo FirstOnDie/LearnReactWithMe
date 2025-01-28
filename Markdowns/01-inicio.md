@@ -1,4 +1,4 @@
-# Inicio
+### **Día 1:**
 
 ### **1. Revisa la estructura inicial**
 Abre tu proyecto en WebStorm. Dentro de la carpeta `src`, deberías ver algo como esto (dependiendo de la configuración elegida):
